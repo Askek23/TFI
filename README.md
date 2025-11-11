@@ -1,8 +1,8 @@
 ## Trabajo Intregador Final
 ## Integrantes del equipo
-- Alexander Salatiel Schimmelpfennig
 - Gerardo Andrés Ávalos
 - Kevin Martin Üeberfeld
+- Alexander Salatiel Schimmelpfennig
 ## Carrera
 Tecnicatura Universitaria en Telecomunicaciones
 ## Materia
