@@ -3,6 +3,7 @@
 - Gerardo Andrés Ávalos
 - Kevin Martin Üeberfeld
 - Alexander Salatiel Schimmelpfennig
+- Gabriel Alejandro Díaz
 ## Carrera
 Tecnicatura Universitaria en Telecomunicaciones
 ## Materia
